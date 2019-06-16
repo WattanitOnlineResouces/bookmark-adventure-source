@@ -6,6 +6,8 @@ This website is based on Mediumish Jekyll Theme.
 
 ## Documentation
 
+For the default theme documentation visit https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/"
+
 ### Front matter
 
 Pages and posts support the following front matter
@@ -28,6 +30,10 @@ rating: 4.5 {rating 0-5 starts}
 ### Styling
 
 This template uses bootstrap framework for styling, thus every part of the website can uses bootstrap components and styles (such as responsive grid classes).
+
+### Menus
+
+Menu items can be edited in ```_data/menus.yml```. This template uses ```jekyll-menus``` plugin to manage menu items.
 
 ## Copyright
 
