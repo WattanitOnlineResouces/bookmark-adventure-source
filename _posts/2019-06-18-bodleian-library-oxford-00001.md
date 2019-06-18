@@ -7,7 +7,7 @@ categories:
 tags:
 - Library
 - Oxford
-image: "/uploads/0001-bodleian-library-02.jpg"
+image: "uploads/0001-bodleian-library-02.jpg"
 description: Leather bookmark from Bodleian Library, Oxford
 featured: false
 hidden: false
