@@ -7,18 +7,14 @@ categories:
 tags:
 - Library
 - Oxford
-image: "uploads/0001-bodleian-library-02.jpg"
+image: uploads/0001-bodleian-library-02.jpg
 description: Leather bookmark from Bodleian Library, Oxford
 featured: false
 hidden: false
 rating: 
 
 ---
-# Bodleian Library
-
-## Leather bookmark
-
-![](/uploads/0001-bodleian-library-02.jpg)
+### Leather bookmark
 
 This is my first ever bookmark that I intentionally bought, and thus began my obsession about collecting bookmark.
 
@@ -36,7 +32,7 @@ This one bookmark started it all.
 
 ### About the place
 
-The Bodleian Library is the main research library of the University of Oxford, and is one of the oldest libraries in Europe. With over 12 million items, it is the second-largest library in Britain after the British Library. 
+The Bodleian Library is the main research library of the University of Oxford, and is one of the oldest libraries in Europe. With over 12 million items, it is the second-largest library in Britain after the British Library.
 
 Known to Oxford scholars as "Bodley" or "the Bod", it operates principally as a reference library and, in general, documents may not be removed from the reading rooms.
 
