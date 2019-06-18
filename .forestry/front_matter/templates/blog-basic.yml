@@ -38,3 +38,5 @@ fields:
 - type: number
   name: rating
   label: rating
+pages:
+- _posts/bodleian-library-oxford-00001.md
