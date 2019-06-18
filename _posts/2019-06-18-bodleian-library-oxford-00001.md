@@ -14,8 +14,6 @@ hidden: false
 rating: 
 
 ---
-### Leather bookmark
-
 This is my first ever bookmark that I intentionally bought, and thus began my obsession about collecting bookmark.
 
 It all started off when I brought up a conversation about how cool it was for a person to single-mindedly collect only one kind of souvenirs from around the globe. It wasn't important what the souvenirs were - could be postcards, timbles, magnets, or anything else - as long as they kept collecting the same thing into a large collection. Otherwise, those souvenirs were more or less just some clutters. Since that conversation, I had been looking for "the one thing" I wanted to collect as souvenirs.
@@ -26,9 +24,13 @@ This one bookmark started it all.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/7/74/The_Tower_of_the_Five_Orders_Oxford.jpg)
 
+### Leather bookmark
+
 ![](/uploads/0001-bodleian-library-03.jpg)
 
 ![](/uploads/0001-bodleian-library-01.jpg)
+
+![](/uploads/0001-bodleian-library-02.jpg)
 
 ### About the place
 
