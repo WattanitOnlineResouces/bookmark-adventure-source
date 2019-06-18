@@ -5,15 +5,21 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
+  default: post
 - type: text
   name: title
   label: title
-- type: text
-  name: author
-  label: author
+  config:
+    required: true
 - type: list
   name: categories
   label: categories
+  config:
+    min: '1'
+    use_select: false
+    source:
+      type: simple
 - type: list
   name: tags
   label: tags
